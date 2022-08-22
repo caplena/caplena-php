@@ -1,0 +1,17 @@
+{
+    "name": "caplena/caplena",
+    "description": "Caplena PHP SDK",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Caplena\\": "src/Caplena"
+        }
+    },
+    "authors": [
+        {
+            "name": "Caplena AG"
+        }
+    ],
+    "require": {}
+}
